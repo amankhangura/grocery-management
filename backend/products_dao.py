@@ -2,7 +2,7 @@
 import sys
 print(sys.path)
 import pymysql
-from test import my_test_function
+
 from sql_connection import get_sql_connection
 
 
